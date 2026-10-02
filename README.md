@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Verification for WhyHireWrong? 02.10.2026
+
 <!--
 **Crozin/Crozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
